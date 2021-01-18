@@ -18,3 +18,14 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 
 Run `gatsby develop` in the terminal to start the dev site.
 A small change.
+
+This is the first project for my UpLeveled programming course.
+
+So I can become a programmer
+
+
+My Name is Róbert.
+
+ 
+It was made with Gatsby Starter template
+
