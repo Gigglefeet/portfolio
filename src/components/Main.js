@@ -33,16 +33,9 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            My Name is Róbert. <a href="#work">Róbert</a>.
           </p>
-          <p>
-            My Name is Róbert. I'm Icelandic. And I'm learning programming at
-            UpLeveled.
-          </p>
+          <p>I'm Icelandic. And I'm learning programming at UpLeveled.</p>
           {close}
         </article>
 
